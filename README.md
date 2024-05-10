@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+to+My+GitHub!;&font=Fira%20Code&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed AbdElbaky Ibrahim</h1>
