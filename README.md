@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed AbdElbaky Ibrahim</h1>
 <h3 align="center">Back-End Web Developer (Python-Django)</h3>
-<img align = "right" alt = "Coding" width = "200" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 - 💬 Ask me about **Django ,DjangoRestFramework, Mysql , Git**
 
 - 📫 How to reach me **ahmedabdelbaki2021@gmail.com**
