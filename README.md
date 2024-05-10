@@ -9,7 +9,7 @@
 
 <br><br>
 - 👨‍💻 I'm Back-End Web Developer (Python-Django)
-- :school: I am a `Student` int the [Faculty of Computers & artificial intelligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
+- :school: I am a `Student` at the [Faculty of Computers & artificial intelligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
 - :computer: I am a competitive programmer at `Codeforces`,  `Leetcode`
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
