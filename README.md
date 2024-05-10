@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed AbdElbaky Ibrahim</h1>
 <h3 align="center">Back-End Web Developer (Python-Django)</h3>
-<https://dribbble.com/shots/4502924-Python-developer-animation>
 - 💬 Ask me about **Django ,DjangoRestFramework, Mysql , Git**
 
 - 📫 How to reach me **ahmedabdelbaki2021@gmail.com**
