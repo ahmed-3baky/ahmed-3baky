@@ -1,13 +1,11 @@
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+to+My+GitHub!;&font=Fira%20Code&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed AbdElbaky Ibrahim</h1>
 <h3 align="center">Back-End Web Developer (Python-Django)</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 - 💬 Ask me about **Django ,DjangoRestFramework, Mysql , Git**
-
 - 📫 How to reach me **ahmedabdelbaki2021@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
