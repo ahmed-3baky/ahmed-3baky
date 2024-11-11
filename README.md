@@ -69,4 +69,12 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-3baky&theme=tokyonight" alt="ahmed-3baky" /></p>
 
 </details>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="ahmed-3baky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed-3baky&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-3baky&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmed-3baky" height="230px"/>
+<br/>
