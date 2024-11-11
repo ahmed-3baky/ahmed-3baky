@@ -78,3 +78,12 @@
 	    <img alt="ahmed-3baky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmed-3baky&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-3baky&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmed-3baky" height="230px"/>
 <br/>
+
+
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+----
+	
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-3baky&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+ 
+</details>
