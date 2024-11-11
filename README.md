@@ -66,8 +66,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-3baky&theme=tokyonight_duo" alt="ahmed-3baky" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-3baky&theme=tokyonight" alt="ahmed-3baky" /></p>
 
 </details>
-  
 
