@@ -62,5 +62,12 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-3baky&theme=tokyonight_duo" alt="ahmed-3baky" /></p>
+
+</details>
+  
 
