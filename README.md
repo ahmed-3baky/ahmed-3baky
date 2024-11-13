@@ -3,9 +3,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed AbdElbaky Ibrahim</h1>
 
- <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="blob:https://lordicon.com/11132199-6a06-4db7-bd85-e74d6543e4e0" width=30%>
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
 - 👨‍💻 I'm Back-End Web Developer (Python-Django)
