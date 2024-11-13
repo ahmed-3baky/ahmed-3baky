@@ -87,3 +87,86 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-3baky&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
+
+## 📂 My Repositories
+
+Here are some of my repositories:
+
+<details>
+  <summary>Click to expand!</summary>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-3baky/Django-Blog-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-3baky&repo=Django-Blog-App&theme=tokyonight" />
+        </a>
+        <br>
+        <a href="https://github.com/ahmed-3baky/Django-Blog-App">
+          <b>Django Blog App</b>
+        </a>
+        <br>
+        A fully functional blog application built with Django.
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-3baky/To-Do-List">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-3baky&repo=To-Do-List&theme=tokyonight" />
+        </a>
+        <br>
+        <a href="https://github.com/ahmed-3baky/To-Do-List">
+          <b>To-Do List App</b>
+        </a>
+        <br>
+        A simple and user-friendly To-Do List application.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-3baky/Problem-Solving">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-3baky&repo=Problem-Solving&theme=tokyonight" />
+        </a>
+        <br>
+        <a href="https://github.com/ahmed-3baky/Problem-Solving">
+          <b>Problem-Solving</b>
+        </a>
+        <br>
+        A collection of my solutions to various coding challenges and problems.
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-3baky/Tic-Tac-Toe-Game">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-3baky&repo=Tic-Tac-Toe-Game&theme=tokyonight" />
+        </a>
+        <br>
+        <a href="https://github.com/ahmed-3baky/Tic-Tac-Toe-Game">
+          <b>Tic-Tac-Toe Game</b>
+        </a>
+        <br>
+        A simple implementation of the classic Tic-Tac-Toe game.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-3baky/Advanced-Computer-Lab">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-3baky&repo=Advanced-Computer-Lab&theme=tokyonight" />
+        </a>
+        <br>
+        <a href="https://github.com/ahmed-3baky/Advanced-Computer-Lab">
+          <b>Advanced Computer Lab</b>
+        </a>
+        <br>
+        A collection of my solutions to the assignments in the Advanced Computer Lab course.
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/ahmed-3baky/Data-Structures-and-Algorithms">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-3baky&repo=Data-Structures-and-Algorithms&theme=tokyonight" />
+        </a>
+        <br>
+        <a href="https://github.com/ahmed-3baky/Data-Structures-and-Algorithms">
+          <b>Data Structures and Algorithms</b>
+        </a>
+        <br>
+        Implementation of various data structures and algorithms.
+      </td>
+    </tr>
+  </table>
+</details>
