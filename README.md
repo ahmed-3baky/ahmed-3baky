@@ -99,7 +99,7 @@ Here are some of my repositories:
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/ahmed-3baky/Django-Blog-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-3baky&repo=Django-Blog-App&theme=tokyonight" />
+          <img src="https://github.com/ahmed-3baky/E-Commerce&repo=Django-Blog-App&theme=tokyonight" />
         </a>
         <br>
         <a href="https://github.com/ahmed-3baky/Django-Blog-App">
