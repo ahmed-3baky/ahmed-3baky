@@ -89,3 +89,18 @@
 </details>
 
 
+<div class="spinning-icon">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611feu19tyvpge2dt2lvaf29bwt6fuvgx9mzs6ps7by&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Spinning Brain"> 
+</div>
+
+<style>
+.spinning-icon {
+  animation: spin 4s linear infinite; 
+  width: 100px; /* Adjust the size as needed */
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
